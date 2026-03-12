@@ -33,7 +33,7 @@
     "tooltip": false
   },
   "clock": {
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chicago",
     "format": "{:%I:%M  %d, %m}",
     "tooltip-format": "{calendar}",
     "calendar": {
